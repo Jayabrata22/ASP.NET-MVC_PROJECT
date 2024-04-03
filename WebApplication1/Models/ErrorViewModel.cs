@@ -1,4 +1,4 @@
-namespace QuickKart.Models
+namespace BloggieWeb.Models
 {
     public class ErrorViewModel
     {

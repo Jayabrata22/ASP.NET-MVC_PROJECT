@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using QuickKart.Models;
+using BloggieWeb.Models;
 
-namespace QuickKart.Controllers
+namespace BloggieWeb.Controllers
 {
     public class HomeController : Controller
     {
